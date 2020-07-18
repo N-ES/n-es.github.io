@@ -1,0 +1,21 @@
+I"o<h1 id="news-archive">News Archive</h1>
+
+<h2 class="c-archives__year" id="2020-ref">2020</h2>
+<ul class="c-archives__list">
+<li class="c-archives__item">
+  Jul 18, 2020: <a href="/jekyll/update/2020/07/18/welcome-to-jekyll.html">Welcome to Jekyll!</a>
+  </li>
+</ul>
+<h2 class="c-archives__year" id="2019-ref">2019</h2>
+<ul class="c-archives__list">
+
+
+<li class="c-archives__item">
+  Jun 29, 2019: <a href="/jekyll/update/2019/06/29/hello-world.html">Two Thousand Nineteen</a>
+  </li>
+
+
+<li class="c-archives__item">
+  Jun 28, 2019: <a href="/jekyll/update/2019/06/28/welcome.html">Welcome to MkDocs Jekyll</a>
+  </li></ul>
+:ET
