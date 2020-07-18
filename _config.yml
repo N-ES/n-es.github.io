@@ -93,3 +93,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+
+
+remote_theme : vsoch/docsy-jekyll
