@@ -16,7 +16,7 @@
 
 title: Slow
 email: nus9505@gmail.com
-author: Dinosaur Avocado
+author: NES
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -28,14 +28,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://n-es.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/vsoch/docsy-jekyll"
-github_user: "vsoch"
-github_repo: "docsy-jekyll"
+repo: "https://github.com/N-ES/n-es.github.io/"
+github_user: "NES"
+github_repo: "NES"
 
 # Optional
-twitter: vsoch
-linkedin: vsochat
-dockerhub: vanessa
+#twitter: NES
+#linkedin: NES
+dockerhub: NES
 
 # Should there be feedback buttons at the bottom of pages?
 feedback: true
