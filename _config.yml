@@ -16,12 +16,11 @@
 
 title: Slow
 email: nus9505@gmail.com
-author: NES
+author: Dinosaur Avocado
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-
 # DO NOT CHANGE THE LINE OF THIS FILE without editing .circleci/circle_urls.sh
 baseurl: "" # the subpath of your site, e.g. /blog
 
@@ -29,14 +28,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://n-es.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/N-ES/n-es.github.io"
-github_user: "NES"
-github_repo: "NES"
+repo: "https://github.com/vsoch/docsy-jekyll"
+github_user: "vsoch"
+github_repo: "docsy-jekyll"
 
 # Optional
-#twitter: NES
-#linkedin: NES
-dockerhub: NES
+twitter: vsoch
+linkedin: vsochat
+dockerhub: vanessa
 
 # Should there be feedback buttons at the bottom of pages?
 feedback: true
@@ -93,3 +92,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+
+
+remote_theme : vsoch/docsy-jekyll
